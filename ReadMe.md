@@ -1,1 +1,1 @@
-This is a Simple Project that imports Random Names and fit's it in to Random Grades for students, also display the grades that the get base on thier perfomance.
+This is a straightforward project that imports random names and assigns them random grades for students. It also displays the grades they receive based on their performance.
